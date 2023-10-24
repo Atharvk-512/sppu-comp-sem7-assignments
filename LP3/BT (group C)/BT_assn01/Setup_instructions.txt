@@ -1,0 +1,18 @@
+Step 1: Install MetaMask:
+1. Open your web browser and go to the official MetaMask website: https://metamask.io/
+2. Click on the "Get Chrome Extension" or "Get Firefox Extension" button, depending on your browser.
+3. You will be directed to the respective extension store. Click on the "Add to Chrome" or "Add to Firefox" button to install the MetaMask extension.
+4. Once the extension is installed, you will see the MetaMask icon in your browser's toolbar.
+
+
+Step 2: Set Up MetaMask:
+1. Click on the MetaMask icon in your browser's toolbar.
+2. Click "Get Started" on the MetaMask page that opens.
+3. Review the terms of use and privacy policy, then click "Accept" if you agree.
+4. Create a strong password for your MetaMask account and click "Create."
+5. Click on the "Download Secret Backup Phrase" button to save your secret backup phrase. This phrase is crucial for accessing your wallet in case you forget your password.
+6. Carefully write down the secret backup phrase and keep it in a secure place. Do not share it with anyone.
+7. Confirm your secret backup phrase by entering it in the specified order.
+8. After confirming the secret backup phrase, your MetaMask wallet will be set up.
+
+Your MetaMask wallet is now set up and ready to use. You can view your account balance, send and receive cryptocurrencies, and interact with decentralized applications (dApps) on the Ethereum blockchain.
